@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/AJ/source/repos/raylib_test1/out/build/x64-debug/cmake_install.cmake",
+		"C:/Users/AJ/source/repos/raylib_test1/out/build/x64-debug/_deps/raylib-build/cmake_install.cmake",
+		"C:/Users/AJ/source/repos/raylib_test1/out/build/x64-debug/_deps/raylib-build/raylib/cmake_install.cmake",
+		"C:/Users/AJ/source/repos/raylib_test1/out/build/x64-debug/_deps/raylib-build/raylib/external/glfw/cmake_install.cmake",
+		"C:/Users/AJ/source/repos/raylib_test1/out/build/x64-debug/_deps/raylib-build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
